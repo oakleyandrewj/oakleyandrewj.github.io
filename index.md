@@ -2,6 +2,17 @@
 
 # Andys Github Pages site
 ## Latest Work
+
+
+### Case Management BlackBox API
+
+I've been working on an API that can be used as a template to speed up integration-type applications with Case Management Systems.
+
+[CaseMan API](https://github.com/oakleyandrewj/CaseManAPI)
+
+It's a .net 6 ASP.net core API that builds and runs self-contained. To get from this template to prod you need to hook it into your data layer/ORM tool, write some Unit Tests, replace the self-cert if you want https, and setup your prod config. A good jump-start
+
+
 ### Visualfiles Code Snippet Tool
 
 Downtime in December 21 means I can work on some utils ive had ideas for for a while. The code editor on a proprietary platform I had been using was a long way from perfect so I made this...
